@@ -1,0 +1,11 @@
+# Ignorar executáveis do cliente
+#/client/reset_tool.exe
+#/client/Libraries/*.dll
+
+# Ignorar cache do Python
+#__pycache__/
+#*.pyc
+
+# Ignorar arquivos do ambiente virtual
+#venv/
+#.env
